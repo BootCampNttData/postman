@@ -1,0 +1,58 @@
+[ 
+    {
+        "creditCardNumber": "4125874563212578",
+        "ClientId": "74589814",
+        "expeditionDate": "01/2022",
+        "expirationDate": "01/2025",
+        "limit": "7000"
+    },
+    {
+        "creditCardNumber": "6541236987451258",
+        "ClientId": "41256398",
+        "expeditionDate": "01/2015",
+        "expirationDate": "07/2027",
+        "limit": "4500"
+    },
+    {
+        "creditCardNumber": "2415785436589654",
+        "ClientId": "45636693",
+        "expeditionDate": "03/2010",
+        "expirationDate": "09/2025",
+        "limit": "3000"
+    },
+    {
+        "creditCardNumber": "5874123698574521",
+        "ClientId": "20494967619",
+        "expeditionDate": "10/2000",
+        "expirationDate": "01/2023",
+        "limit": "10000"
+    },
+    {
+        "creditCardNumber": "9874521474123258",
+        "ClientId": "20608391135",
+        "expeditionDate": "09/2020",
+        "expirationDate": "12/2027",
+        "limit": "20000"
+    },
+    {
+        "creditCardNumber": "6547123698547412",
+        "ClientId": "41236587",
+        "expeditionDate": "01/2019",
+        "expirationDate": "10/2025",
+        "limit": "4000"
+    },
+    {
+        "creditCardNumber": "1247852112599741",
+        "ClientId": "74589774",
+        "expeditionDate": "03/2021",
+        "expirationDate": "08/2023",
+        "limit": "5500"
+    },
+    {
+        "creditCardNumber": "4578412369852147",
+        "ClientId": "20602501800",
+        "expeditionDate": "01/2009",
+        "expirationDate": "01/2028",
+        "limit": "50000"
+    }    	
+]
