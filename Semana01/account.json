@@ -1,0 +1,65 @@
+[ 
+    {
+        "accountNumber": "001105020200355481",
+        "accountType": "C",
+        "feeAmount": "1.5",
+        "movementLimit": "N",
+        "clientType": "P",
+		"creationDate": "01/01/2022",
+		"clientId": "74589814"
+    },
+    {
+        "accountNumber": "001105012300355987",
+        "accountType": "A",
+        "feeAmount": "0.00",
+        "movementLimit": "5",
+        "clientType": "P",
+		"creationDate": "01/01/2022",
+		"clientId": "24785569"
+    },
+    {
+        "accountNumber": "002705012305655964",
+        "accountType": "C",
+        "feeAmount": "0.9",
+        "movementLimit": "N",
+        "clientType": "E",
+		"creationDate": "01/01/2022",
+		"clientId": "20604415200"
+    },
+    {
+        "accountNumber": "002505012305357962",
+        "accountType": "C",
+        "feeAmount": "1.2",
+        "movementLimit": "N",
+        "clientType": "E",
+		"creationDate": "01/02/2022",
+		"clientId": "20604415200"
+    },
+    {
+        "accountNumber": "001100712300369978",
+        "accountType": "A",
+        "feeAmount": "0.00",
+        "movementLimit": "3",
+        "clientType": "P",
+		"creationDate": "01/02/2022",
+		"clientId": "74534811"
+    },
+    {
+        "accountNumber": "001100712300369657",
+        "accountType": "A",
+        "feeAmount": "0.00",
+        "movementLimit": "5",
+        "clientType": "P",
+		"creationDate": "01/03/2022",
+		"clientId": "41236587"
+    },
+    {
+        "accountNumber": "0025050123053573382",
+        "accountType": "C",
+        "feeAmount": "1.5",
+        "movementLimit": "N",
+        "clientType": "E",
+		"creationDate": "01/03/2022",
+		"clientId": "20602501800"
+    }	
+]

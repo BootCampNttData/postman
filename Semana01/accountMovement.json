@@ -1,0 +1,87 @@
+[ 
+    {
+        "idCreditCad": "001105020200355481",
+        "movementType": "I",
+        "movementDate": "05/01/2022",
+        "amount": "100"
+    },
+    {
+		"idCreditCad": "001105020200355481",
+        "movementType": "S",
+        "movementDate": "07/01/2022",
+        "amount": "50"
+    },
+    {
+		"idCreditCad": "001105012300355987",
+        "movementType": "I",
+        "movementDate": "10/01/2022",
+        "amount": "350"
+    },
+    {
+		"idCreditCad": "001105012300355987",
+        "movementType": "I",
+        "movementDate": "31/01/2022",
+        "amount": "1000"
+    },
+    {
+		"idCreditCad": "002705012305655964",
+        "movementType": "I",
+        "movementDate": "27/01/2022",
+        "amount": "547"
+    },
+    {
+		"idCreditCad": "002705012305655964",
+        "movementType": "S",
+        "movementDate": "10/02/2022",
+        "amount": "450"
+    },
+    {
+		"idCreditCad": "002705012305655964",
+        "movementType": "S",
+        "movementDate": "20/02/2022",
+        "amount": "20"
+    },
+    {
+		"idCreditCad": "002505012305357962",
+        "movementType": "I",
+        "movementDate": "17/01/2022",
+        "amount": "37000"
+    },
+    {
+		"idCreditCad": "002505012305357962",
+        "movementType": "S",
+        "movementDate": "17/02/2022",
+        "amount": "25000"
+    },
+    {
+		"idCreditCad": "001100712300369657",
+        "movementType": "I",
+        "movementDate": "02/03/2022",
+        "amount": "300"
+    },
+    {
+		"idCreditCad": "001100712300369657",
+        "movementType": "I",
+        "movementDate": "05/03/2022",
+        "amount": "250"
+    },	
+    {
+		"idCreditCad": "0025050123053573382",
+        "movementType": "I",
+        "movementDate": "07/03/2022",
+        "amount": "85000"
+    },
+    {
+		"idCreditCad": "0025050123053573382",
+        "movementType": "I",
+        "movementDate": "25/03/2022",
+        "amount": "20000"
+    },
+    {
+		"idCreditCad": "0025050123053573382",
+        "movementType": "S",
+        "movementDate": "01/04/2022",
+        "amount": "70000"
+    }
+	
+]
